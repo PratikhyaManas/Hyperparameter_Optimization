@@ -3,4 +3,4 @@
 The full description of the project can be found on 
 
 
-https://medium.com/@manaspratikh786/how-to-find-the-right-set-of-hyperparameters-52aba86d3bed
+https://pratikhyamanas.medium.com/searching-hyperparameters-254a77cfca24
